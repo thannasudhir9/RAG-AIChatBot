@@ -1,0 +1,5 @@
+{
+  "name": "RAG Chatbot System",
+  "description": "A production-ready Retrieval-Augmented Generation (RAG) application for chatting with your documents (PDF, DOCX, TXT, CSV).",
+  "requestFramePermissions": []
+}
